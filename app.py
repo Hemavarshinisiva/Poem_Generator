@@ -4,7 +4,7 @@ import base64
 from io import BytesIO
 from PIL import Image
 
-genai.configure(api_key="AIzaSyCNyET5fRqFBRl26iS1_-nZyGu-5eSqyng") 
+genai.configure(api_key="PASTE YOUR YOUTUBE API") 
 
 LANGUAGES = ["Tamil", "Hindi", "Telugu", "Kannada", "Malayalam", "Bengali", "Gujarati", "Marathi", "Punjabi", "Odia"]
 
